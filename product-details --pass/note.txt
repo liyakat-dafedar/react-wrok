@@ -1,0 +1,2 @@
+use "" instead of false when assigning value to checked attribute of input
+use short circuit and or ,ternary operator
